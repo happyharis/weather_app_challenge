@@ -20,7 +20,7 @@ Your challenge is to create Weather app and get it looking as close to the desig
 
 ## Getting Started
 
-1. Download/Fork the starter project.
+1. [Download](https://github.com/happyharis/weather_app_challenge/archive/refs/heads/master.zip) the starter project.
 2. Set up the project with version control.
 3. Setup the project challenge however you want.
 4. Start coding!
